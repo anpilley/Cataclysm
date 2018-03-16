@@ -1,0 +1,12 @@
+[{
+  "modid": "cataclysm",
+  "name": "World-ending Cataclysm",
+  "description": "Sets up a World-ending Catalysm. Feed all of your power and inventory/storage items into it to increase the size of the world-ending event.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "logoFile": "assets/cataclysm/textures/logo.png",
+  "url": "minecraftforge.net/",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["anpilley"],
+  "credits": ""
+}]
